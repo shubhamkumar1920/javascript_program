@@ -1,0 +1,9 @@
+#form{
+    width: 400px;
+    align-items: center;
+    display: block;
+}
+body{
+    display: flex;
+    justify-content: center;
+}
